@@ -1,0 +1,31 @@
+body {
+    background-color: white;
+  }
+
+.intro {
+    background-color: rgb(52, 52, 137);
+    color: white;
+    width: 100%;
+    padding: 10px;
+    margin: -10px;
+}
+
+#nomPrenom {
+    background-color: rgb(69, 69, 156);
+    color: white;
+    text-align: left;
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+    
+}
+
+.info {
+    color: dark;
+    text-align: left;
+}
+
+.experience {
+    color: darkblue;
+    text-align: right;
+}
